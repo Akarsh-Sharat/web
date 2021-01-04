@@ -23,7 +23,7 @@ p{
     margin: 0;
 }
 
-/* desktop */
+/* Large Devices*/
 @media (min-width: 992px){
     .chicken{
         padding: 0px;
@@ -73,7 +73,7 @@ p{
     }
 }
 
-/* tablet */
+/* Medium Devices*/
 @media (min-width: 768px) and (max-width: 991px){
     .chicken{
         padding: 0px;
@@ -124,7 +124,7 @@ p{
     }
 }
 
-/* phone */
+/* Small Devices*/
 @media (max-width: 767px){
     .chicken{
         padding: 0px;
